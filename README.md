@@ -3,6 +3,7 @@
 ## Firewall Blocker
 
 - Creates inbound and outbound rules which block all .exe and .dll files in current directory
+- Requires admin privileges
 
 ## Internet suspend
 
